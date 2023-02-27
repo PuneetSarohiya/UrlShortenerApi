@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://puneet1234:puneet1234@cluster0.aw0bq75.mongodb.net/?retryWrites=true&w=majority",
+    "baseUrl":"https://localhost:9000"
+}
